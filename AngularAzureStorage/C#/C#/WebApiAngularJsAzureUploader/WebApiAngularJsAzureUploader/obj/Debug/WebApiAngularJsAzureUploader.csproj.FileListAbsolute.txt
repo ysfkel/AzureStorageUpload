@@ -1,0 +1,158 @@
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\obj\Debug\WebApiAngularJsAzureUploader.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\WebApiAngularJsAzureUploader.dll.config
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\WebApiAngularJsAzureUploader.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\WebApiAngularJsAzureUploader.pdb
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Antlr3.Runtime.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.Edm.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.OData.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Newtonsoft.Json.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Net.Http.Formatting.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Spatial.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Helpers.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Http.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Http.WebHost.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Mvc.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Optimization.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Razor.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\WebGrease.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.Edm.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.OData.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Spatial.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Newtonsoft.Json.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Net.Http.Formatting.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Helpers.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Http.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Http.WebHost.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Mvc.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Optimization.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Razor.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Antlr3.Runtime.pdb
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\de\System.Spatial.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\es\System.Spatial.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\fr\System.Spatial.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\it\System.Spatial.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ja\System.Spatial.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ko\System.Spatial.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ru\System.Spatial.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\obj\Debug\WebApiAngularJsAzureUploader.dll
+C:\Users\Jon\Documents\USS Work\MSDN Samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\obj\Debug\WebApiAngularJsAzureUploader.pdb
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\WebApiAngularJsAzureUploader.dll.config
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\WebApiAngularJsAzureUploader.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\WebApiAngularJsAzureUploader.pdb
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Antlr3.Runtime.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.Edm.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.OData.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.Services.Client.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Newtonsoft.Json.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Net.Http.Formatting.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Spatial.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Helpers.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Http.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Http.WebHost.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Mvc.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Optimization.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Razor.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.Deployment.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.Razor.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\WebGrease.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.Edm.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.OData.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.Data.Services.Client.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Spatial.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Newtonsoft.Json.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Net.Http.Formatting.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Helpers.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Http.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Http.WebHost.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Mvc.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Optimization.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.Razor.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.Deployment.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\System.Web.WebPages.Razor.xml
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\Antlr3.Runtime.pdb
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\de\Microsoft.Data.OData.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\es\Microsoft.Data.OData.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\it\Microsoft.Data.OData.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\de\System.Spatial.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\es\System.Spatial.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\fr\System.Spatial.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\it\System.Spatial.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ja\System.Spatial.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ko\System.Spatial.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\ru\System.Spatial.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hans\System.Spatial.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\bin\zh-Hant\System.Spatial.resources.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\obj\Debug\WebApiAngularJsAzureUploader.csprojResolveAssemblyReference.cache
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\obj\Debug\WebApiAngularJsAzureUploader.dll
+C:\Work\MSDN samples\WebApiAngularJsAzureUploader\WebApiAngularJsAzureUploader\obj\Debug\WebApiAngularJsAzureUploader.pdb
